@@ -1,0 +1,33 @@
+.title {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.title.h1 {
+    background-color: chartreuse;
+    color: crimson;
+    text-align: center;
+    font-size: 40px;
+}
+
+.title.h2 {
+    background-color: chartreuse;
+    color: crimson;
+    text-align: center;
+    font-size: 32px;   
+}
+
+.lorem {
+    color: black;
+    font-size: 24px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.recipelist {
+    background-color: cyan;
+}
+
+.recipelist .recipe {
+    font-size: 24px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 900;
+}
